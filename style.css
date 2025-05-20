@@ -1,0 +1,32 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: black;
+font-family: Marker Felt;
+}
+
+h3{
+font-size: 25px;
+text-align: left;
+color: black;
+font-family: Marker Felt;
+}
+
+p1{
+font-size: 23px;
+text-align: center;
+font-family: Marker Felt;
+color: royalblue;
+}
+
+p2{
+font-size: 16px;
+text-align: left;
+font-family: Marker Felt;
+color: black;
+}
+
+body {
+background-color: #CEDDE0;
+;
+}
